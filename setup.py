@@ -22,7 +22,6 @@ setuptools.setup(
     python_requires=">=3.6",
     keywords="VoIP telephony audio analysis overtalk",
     install_requires=["auditok"],
-    scripts=["overtalk.py"],
     classifiers=[
         "Environment :: Console",
         "Development Status :: 4 - Beta",
