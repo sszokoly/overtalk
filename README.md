@@ -14,7 +14,7 @@ It can also accept two mono WAV files.
     )
 >>> overtalk.load("sample.wav")
 >>> print(overtalk.overtalk)
-3.00000001
+3.25
 ```
 ## Requirements
 
